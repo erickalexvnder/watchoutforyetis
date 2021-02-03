@@ -1,0 +1,232 @@
+/* Find the Penguin Game
+	 Author: George
+	 Date: 6/28/19
+	 Filename: styles.css */
+	 
+body {
+	background-color: LightSteelBlue;
+}
+
+div#gameholder {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#title {
+	background-image: url("media/penguin_title.png");
+	width: 600px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* ------------------ Mound 1 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound1 {
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound1:hover {
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound1:active {
+	background-image: url("media/penguin_1.png");
+}
+
+/* ------------------ Mound 2 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound2 {
+	background-image: url("media/mound_2.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound2:hover {
+	background-image: url("media/mound_2_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound2:active {
+	background-image: url("media/penguin_2.png");
+}
+
+/* ------------------ Mound 3 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound3 {
+	background-image: url("media/mound_3.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound3:hover {
+	background-image: url("media/mound_3_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound3:active {
+	background-image: url("media/penguin_3.png");
+}
+
+/* ------------------ Mound 4 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound4 {
+	background-image: url("media/mound_4.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound4:hover {
+	background-image: url("media/mound_4_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound4:active {
+	background-image: url("media/penguin_4.png");
+}
+
+/* ------------------ Mound 5 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound5 {
+	background-image: url("media/mound_5.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound5:hover {
+	background-image: url("media/mound_5_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound5:active {
+	background-image: url("media/penguin_5.png");
+}
+
+/* ------------------ Mound 6 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound6 {
+	background-image: url("media/mound_6.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound6:hover {
+	background-image: url("media/mound_6_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound6:active {
+	background-image: url("media/penguin_6.png");
+}
+
+/* ------------------ Mound 7 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound7 {
+	background-image: url("media/mound_7.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound7:hover {
+	background-image: url("media/mound_7_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound7:active {
+	background-image: url("media/penguin_7.png");
+}
+
+/* ------------------ Mound 8 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound8 {
+	background-image: url("media/mound_8.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound8:hover {
+	background-image: url("media/mound_8_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound8:active {
+	background-image: url("media/penguin_8.png");
+}
+
+/* ------------------ Mound 9 ------------------- */
+
+/* This is the natural styling for the div */
+div.mound9 {
+	background-image: url("media/mound_9.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This pseudo-class is applied when the mouse hovers over the mound of snow */
+
+div.mound9:hover {
+	background-image: url("media/mound_9_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when the mound is clicked */
+div.mound9:active {
+	background-image: url("media/penguin_8.png");
+}
+
+/* --------------- YETI -------------- */
+#yeti:active {
+	background-image: url("media/yeti.png");
+}
+
+
+
+
+
+
+
